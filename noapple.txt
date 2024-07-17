@@ -56,3 +56,12 @@ webproxy-advp.iad-apple.com.akadns.net
 metrics.apple.com
 securemetrics.apple.com
 apple.comscoreresearch.com
+
+afs.googlesyndication.com
+
+ads-api.tiktok.com
+ads-sg.tiktok.com
+business-api.tiktok.com
+
+adtech.yahooinc.com
+
